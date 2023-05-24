@@ -25,7 +25,7 @@
     <!--Cabeçalho-->
     <div class="header">
         <div class="container">
-            <h1>CoffeeTec</h1>
+            <h1>I-Plant</h1>
             <ul class="navbar">
                 <li class="agora">
                     <a href="index.html">Inicial</a>
@@ -48,13 +48,13 @@
     <div class="banner">
         <div class="container">
             <div class="login">
-                <h2>Cadastre sua empresa</h2>
+                <h2>Faça seu cadastro </h2>
                 <div class="boxes">
                     <div id="parte1">
-                        <div id="empresa">Empresa</div>
+                        <div id="empresa">Nome</div>
                         <input id="in_empresa" autofocus>
 
-                        <div id="cnpj">CNPJ</div>
+                        <div id="cnpj">CPF</div>
                         <input onkeyup='valida_cnpj()' id="in_cnpj">
 
                         <div id="representante">Representante</div>
@@ -105,7 +105,7 @@
 
     function valida_cnpj() {
         var cnpj = in_cnpj.value;
-        if (cnpj.length == 14) {
+        if (cnpj.length == 11) {
             in_cnpj.style.color = 'green';
         } else {
             in_cnpj.style.color = 'red';

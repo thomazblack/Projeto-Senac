@@ -2,11 +2,11 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Exo 2', 'Segoe UI', Tahoma, Geneva;
-  background-color: #392620;
+  background-color: #175024;
 }
 .header {
-  border-bottom: 3px solid #e3b062;
-  color: #e3b062;
+  border-bottom: 3px solid #80e362;
+  color: #a0e362;
 }
 .container {
   display: flex;
@@ -20,10 +20,10 @@ body {
   width: 600px;
   justify-content: space-evenly;
   align-items: center;
-  color: #e3b062;
+  color: #80e362;
 }
 .navbar a {
-  color: #e3b062;
+  color: #80e362;
   text-decoration: none;
   transition: all 0.3s ease;
 }
@@ -37,7 +37,7 @@ body {
 .banner {
   height: 720px;
   color: #fff;
-  background-image: url('https://villacafe.com.br/blog/wp-content/uploads/2017/11/136690-estender-1000-palavras-qual-e-a-diferenca-entre-o-cafe-gourmet-e-o-cafe-tradicional-760x460.jpg');
+  background-image: url('https://www.srimplementos.com/upload/noticias_21_454_1564148630.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -50,19 +50,19 @@ body {
 
 .banner .login {
   background-color: rgb(229, 229, 229, 0.8);
-  color: #9b111e;
+  color: #1ca333;
   height: 620px;
   width: 70%;
   justify-content: center;
   border-radius: 20px;
 }
 .footer {
-  background-color: #392620;
+  background-color: #175024;
   height: 40px;
   color: white;
   display: flex;
   justify-content: center;
-  border-top: #e3b062 solid 3px;
+  border-top: #62e378 solid 3px;
 }
 .footer .container {
   justify-content: center;
@@ -135,35 +135,35 @@ h4 {
   height: 40px;
   width: 300px;
   border-radius: 10px 10px 10px 10px;
-  border: solid #e3b062;
+  border: solid #80e362;
   font-size: 20px;
 }
 #in_cnpj {
   height: 40px;
   width: 300px;
   border-radius: 10px 10px 10px 10px;
-  border: solid #e3b062;
+  border: solid #80e362;
   font-size: 20px;
 }
 #in_representante {
   height: 40px;
   width: 300px;
   border-radius: 10px 10px 10px 10px;
-  border: solid #e3b062;
+  border: solid #80e362;
   font-size: 20px;
 }
 #in_tel {
   height: 40px;
   width: 300px;
   border-radius: 10px 10px 10px 10px;
-  border: solid #e3b062;
+  border: solid #80e362;
   font-size: 20px;
 }
 #in_email {
   height: 40px;
   width: 300px;
   border-radius: 10px 10px 10px 10px;
-  border: solid #e3b062;
+  border: solid #80e362;
   font-size: 20px;
   color: black;
 }
@@ -171,7 +171,7 @@ h4 {
   height: 40px;
   width: 300px;
   border-radius: 10px 10px 10px 10px;
-  border: solid #e3b062;
+  border: solid #80e362;
   font-size: 20px;
 }
 
@@ -181,8 +181,8 @@ h4 {
   width: 26%;
   color: #fff;
   border-radius: 10px 10px 10px 10px;
-  background-color: #9b111e;
-  border: #9b111e solid;
+  background-color: #829b11;
+  border: #829b11 solid;
   font-size: 30px;
   transition: all 1s ease;
 }
@@ -191,10 +191,10 @@ h4 {
   margin-top: 70px;
   height: 55px;
   width: 35%;
-  color: #9b111e;
+  color: #829b11;
   border-radius: 10px 10px 10px 10px;
   background-color: #fff;
-  border: #9b111e solid;
+  border: #829b11 solid;
   font-size: 30px;
   transition: all 1s ease;
 }
@@ -207,8 +207,8 @@ h4 {
   height: 45px;
   width: 30%;
   border-radius: 10px 10px 10px 10px;
-  border: #9b111e solid;
-  color: #9b111e;
+  border: #829b11 solid;
+  color: #829b11;
   background-color: #fff;
 
   font-size: 20px;
@@ -220,7 +220,7 @@ h4 {
   color: white;
   display: flex;
   justify-content: center;
-  border-top: #e3b062 solid 3px;
+  border-top: #80e362 solid 3px;
 }
 
 .footer .container {
