@@ -2,11 +2,11 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Exo 2', 'Segoe UI', Tahoma, Geneva;
-  background-color: #392620;
+  background-color: #175024;
 }
 .header {
-  border-bottom: 3px solid #e3b062;
-  color: #e3b062;
+  border-bottom: 3px solid #80e362;
+  color: #a0e362;
 }
 .container {
   display: flex;
@@ -21,11 +21,11 @@ body {
   width: 600px;
   justify-content: space-evenly;
   align-items: center;
-  color: #e3b062;
+  color: #80e362;
   margin-left: 500px;
 }
 .navbar a {
-  color: #e3b062;
+  color: #80e362;
   text-decoration: none;
   transition: all 0.3s ease;
 }
@@ -58,7 +58,7 @@ body {
 input {
   height: 35px;
   border-radius: 10px 10px 10px 10px;
-  border: #e3b062 solid 2px;
+  border: #80e362 solid 2px;
   font-size: 20px;
 }
 .dados {
@@ -68,7 +68,7 @@ input {
   font-size: 40px;
 }
 #resultado {
-  background-color: #e3b062;
+  background-color: #80e362;
   color: white;
   font-size: 25px;
   display: flex;
@@ -78,12 +78,12 @@ input {
   padding: 30px;
 }
 .footer {
-  background-color: #392620;
+  background-color: #175024;
   height: 70px;
   color: white;
   display: flex;
   justify-content: center;
-  border-top: #e3b062 solid 3px;
+  border-top: #80e362 solid 3px;
 }
 
 .footer .container {

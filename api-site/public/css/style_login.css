@@ -6,7 +6,7 @@ body {
 }
 .header {
   border-bottom: 3px solid #80e362;
-  color: #a0e362;
+  color: #a0e362; 
 }
 .container {
   display: flex;
